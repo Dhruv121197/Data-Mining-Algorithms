@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello world!
+
+Dhruv here, I like Web-Development and Android app development.
