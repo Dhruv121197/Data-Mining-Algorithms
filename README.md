@@ -2,4 +2,4 @@
 
 Hello world!
 
-Dhruv here, I like Web-Development and Android app development.
+Dhruv here, I like Data Mining!
