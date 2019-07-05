@@ -1,5 +1,3 @@
-# hello-world
+# Data-Mining-Algorithms
 
-Hello world!
-
-Dhruv here, I like Data Mining!
+A repository of few data mining algorithms designed from scratch 
