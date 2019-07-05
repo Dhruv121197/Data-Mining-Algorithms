@@ -1,3 +1,3 @@
 # Data-Mining-Algorithms
 
-A repository of few data mining algorithms designed from scratch 
+A repository of classic data mining algorithms implemented from scratch on google colab.
